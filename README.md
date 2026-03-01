@@ -28,3 +28,6 @@ The analysis includes:
 ---
 **Author:** Mohamed Mostafa Elbasyouni  
 **Role:** Junior Data Analyst | NTI & Military Technical College
+<img width="588" height="527" alt="image" src="https://github.com/user-attachments/assets/e54364c7-63ac-43cd-b445-f5cd47e3d3a3" />
+<img width="1333" height="435" alt="image" src="https://github.com/user-attachments/assets/4edb7445-8ff9-4bce-b672-e25176665665" />
+<img width="1331" height="682" alt="image" src="https://github.com/user-attachments/assets/79c5f341-654a-4129-9095-e5e7df918d6c" />
